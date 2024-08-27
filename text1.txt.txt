@@ -2,4 +2,10 @@ hello world!!!
 
 2nd line added after 1st line
 
+
 bug fixed at bugfix branch
+
+created new branch
+
+modified after commiting new file and new branch
+
