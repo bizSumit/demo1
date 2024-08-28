@@ -13,3 +13,9 @@ modified after commiting new file and new branch
 
 updated file1
 
+
+for stash implementation
+
+using stash in tex1.txt
+
+using stash in tex1.txt 2nd time
